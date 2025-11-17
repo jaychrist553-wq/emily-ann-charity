@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emily Ann – Meet & Needs Charity</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+        }
+        header {
+            background-color: #ff6b6b;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+        .subtitle {
+            font-size: 18px;
+            margin-top: 5px;
+        }
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .donate-btn {
+            display: inline-block;
+            padding: 15px 25px;
+            background-color: #ff6b6b;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        .donate-btn:hover {
+            background-color: #e05454;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Emily Ann – Meet & Needs</h1>
+    <p class="subtitle">Supporting Homeless Children With Love, Safety, and Hope</p>
+</header>
+
+<section>
+    <h2>Our Mission</h2>
+    <p>
+        Emily Ann Meet & Needs is a charity dedicated to helping homeless children
+        get the food, shelter, education, and emotional support they deserve.
+        Every child deserves a chance — and we work every day to make that possible.
+    </p>
+
+    <h2>How You Can Help</h2>
+    <p>
+        Your donations help provide meals, clothing, medical care, school supplies,
+        and safe housing for children in need. Together, we can change lives.
+    </p>
+
+    <a href="#" class="donate-btn">Donate Now</a>
+</section>
+
+<footer>
+    © 2025 Emily Ann – Meet & Needs Charity | All Rights Reserved
+</footer>
+
+</body>
+</html>
